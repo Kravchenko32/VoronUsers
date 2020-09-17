@@ -1,6 +1,6 @@
 <div style="text-align: right"><sub>GK</sub></div>
-<img align="right" width="100" height="100" src="images/Hinge.jpg">
-<img align="right" width="100" height="100" src="images/DIN mount.jpg">
+<img align="right" width="100" height="100" src="Images/Hinge.jpg">
+<img align="right" width="100" height="100" src="Images/DIN mount.jpg">
 
 # Car Hood style mod
 
