@@ -10,3 +10,6 @@ In unlikely chance that your printed hinge melts your bed won't sag into your el
 ## Printing
 
 Usual voron settings but with minor supports on some parts
+
+![Hinge](Images/Hinge.jpg?raw=true)
+![DINMount](DINMount.jpg?raw=true)
